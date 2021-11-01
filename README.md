@@ -1,2 +1,1 @@
-# crypto-currency-devcoin
-Repository featuring educational implementation of crypto currency
+# Welcome to Devcoin repositorys
